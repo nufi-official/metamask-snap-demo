@@ -10,9 +10,9 @@
 - Activate "Developer mode".
 - At the top, click `Load unpacked`.
 - Choose your unzipped Chrome extension folder.
+- Open the already installed Metamask-Flask extension and set up your account.
 
 ## Test using forked [adaplays](https://github.com/vacuumlabs/nufi-adaplays.xyz) dapp
-- Open the already installed Metamask-Flask extension and set up your account.
 - Navigate to [testing dapp](https://nufi-demo-snap-ef00b1df8cce.herokuapp.com/).
 - Click `Connect` and then choose `Metamask (Flask)`.
 - Confirm all snap installations.
