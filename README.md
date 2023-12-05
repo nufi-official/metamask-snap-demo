@@ -16,14 +16,16 @@
 - Navigate to [testing dapp](https://nufi-demo-snap-ef00b1df8cce.herokuapp.com/).
 - Click `Connect` and then choose `Metamask (Flask)`.
 - Confirm all snap installations.
-- Confirm all permissions.
+- In the popup that appears confirm connection.
 - Choose a password.
 - Fund your wallet (we are using Cardano preprod network).
 - Create a game according to the dapp.
-- Sign transaction.
+- Sign transaction (prompt should be displayed within the floating Widget).
 - Wait until the game move expires.
 - Click on "Get your funds back".
-- Sign transaction.
+- Sign transaction (prompt should be displayed within the floating Widget).
+
+TODO: link to videos
 
 ## Troubleshooting
 
