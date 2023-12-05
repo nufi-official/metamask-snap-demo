@@ -1,7 +1,7 @@
 ## How to test
 
 - Download the custom Metamask-Flask extension build which already includes the NuFi Cardano snap
-- For [Chrome](https://github.com/nufi-official/metamask-snap-demo/releases/download/0.0.1/nufi-snap-metamask-build-chrome-0.0.1.zip) or [Firefox](https://github.com/nufi-official/metamask-snap-demo/releases/download/0.0.1/nufi-snap-metamask-build-firefox-0.0.1.zip)
+- For [Chrome](https://github.com/nufi-official/metamask-snap-demo/releases/download/0.0.1/nufi-snap-demo-metamask-ext-build-chrome-0.0.1.zip) or [Firefox](https://github.com/nufi-official/metamask-snap-demo/releases/download/0.0.1/nufi-snap-demo-metamask-ext-build-firefox-0.0.1.zip)
 - Unzip
 - [Add custom extension](https://github.com/nufi-official/metamask-snap-demo#add-custom-extension) according to the section below
 - Open the custom Metamask-Flask extension and log in.
