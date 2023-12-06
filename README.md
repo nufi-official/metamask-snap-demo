@@ -2,6 +2,10 @@
 
 We are looking for further funding for this project through [Catalyst grant](https://cardano.ideascale.com/c/idea/113367)
 
+<img width="1512" alt="Screenshot 2023-12-06 at 10 46 56" src="https://github.com/nufi-official/metamask-snap-demo/assets/10008234/e0d8fec7-8b56-4024-b238-d14697d49686">
+<img width="1511" alt="Screenshot 2023-12-06 at 10 46 33" src="https://github.com/nufi-official/metamask-snap-demo/assets/10008234/afa14b84-2aab-4234-ae3a-d13c4d75ddc7">
+
+
 ## How to test
 
 ### Install our custom Metamask-Flask
