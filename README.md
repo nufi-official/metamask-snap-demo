@@ -4,7 +4,7 @@
 
 - Download our custom Metamask-Flask extension which already includes the NuFi Cardano snap ([Chrome](https://github.com/nufi-official/metamask-snap-demo/releases/download/0.0.1/nufi-snap-demo-metamask-ext-build-chrome-0.0.1.zip)).
 - Open Chrome.
-- Open a new Chrome profile to not interfere with standard Metamask and other extensions.
+- Create a new Chrome profile to not interfere with standard Metamask and other extensions.
 - In Chrome native to `Settings` > `Extensions`.
   * Or go straight to `chrome://extensions`
 - Activate "Developer mode".
@@ -17,7 +17,7 @@
 - Click `Connect` and then choose `Metamask (Flask)`.
 - Confirm all snap installations.
 - In the popup that appears confirm connection.
-- Choose a password.
+- Choose a password (dapp specific, unrelated to our product).
 - Fund your wallet (we are using Cardano preprod network).
 - Create a game according to the dapp.
 - Sign transaction (prompt should be displayed within the floating Widget).
